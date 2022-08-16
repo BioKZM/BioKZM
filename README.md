@@ -1,10 +1,19 @@
 ### Berke Akbay A.K.A qRnt, BioKZM, AKUbay
 
-Selamlar, ben Berke.
-20 yaşındayım, Batman Üniversitesi Bilgisayar Mühendisliği 3.sınıf öğrencisiyim. Boş zamanlarımda video oyunları ve basketbolla ilgilenmeyi tercih ediyorum.
+Love working with Discord bots, writing them with Python.
+Have experience with Java, MySQL & MSSQL, C, C#, HTML5, CSS
+
+Currently learning Django and JavaScript for Full-Stack Web Developing.
+Have interest on Game Development and Cyber Security.
+
+Feel free to contact with me on:
+<a href = "mailto:qRnt@yandex.com">qRnt@yandex.com</a>
 
 
-Codewars Profilim
+
+
+
+My Codewars Profile
 -----------------
 <img src = "https://www.codewars.com/users/qRnt/badges/large?theme=light"></img>
 <!--
