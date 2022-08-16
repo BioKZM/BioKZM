@@ -1,5 +1,12 @@
-### Hi there 👋
+### Berke Akbay A.K.A qRnt, BioKZM, AKUbay
 
+Selamlar, ben Berke.
+20 yaşındayım, Batman Üniversitesinde Bilgisayar Mühendisliği 3.sınıf öğrencisiyim. Boş zamanlarımda video oyunları ve basketbolla ilgilenmeyi tercih ediyorum.
+
+
+Codewars Profilim
+-----------------
+<img src = "https://www.codewars.com/users/qRnt/badges/large?theme=light"></img>
 <!--
 **BioKZM/BioKZM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
