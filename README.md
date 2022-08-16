@@ -1,7 +1,7 @@
 ### Berke Akbay A.K.A qRnt, BioKZM, AKUbay
 
 Selamlar, ben Berke.
-20 yaşındayım, Batman Üniversitesinde Bilgisayar Mühendisliği 3.sınıf öğrencisiyim. Boş zamanlarımda video oyunları ve basketbolla ilgilenmeyi tercih ediyorum.
+20 yaşındayım, Batman Üniversitesi Bilgisayar Mühendisliği 3.sınıf öğrencisiyim. Boş zamanlarımda video oyunları ve basketbolla ilgilenmeyi tercih ediyorum.
 
 
 Codewars Profilim
