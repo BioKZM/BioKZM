@@ -1,7 +1,9 @@
 Berke Akbay A.K.A qRnt, BioKZM, AKUbay
 =======================================================
 
-Love working with Discord bots, writing them with Python. Have experience with Java, MySQL & MSSQL, C, C#, HTML5, CSS, Dart, JS Currently learning Django for Full-Stack Developing. Still developing the personal Flutter Project. Have interest on Game Development and Cyber Security. Feel free to contact with me on: qRnt@yandex.com
+Love working with Discord bots, writing them with Python. Have experience with Java, MySQL & MSSQL, C, C#, HTML5, CSS, Dart, JS Currently learning Django for Full-Stack Developing. Still developing the personal Flutter Project. Have interest on Game Development and Cyber Security. 
+
+Feel free to contact with me on: qRnt@yandex.com
 
 <a href="https://www.github.com/biokzm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/biokzm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
